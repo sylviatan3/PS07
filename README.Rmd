@@ -1,7 +1,6 @@
 ---
 title: "PS07"
 output: github_document
-section: "01"
 ---
 
 ```{r setup, include=FALSE}
